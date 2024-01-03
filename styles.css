@@ -1,6 +1,7 @@
 body {
     height: fit-content;
     width: auto;
+    background-color: bisque;
 }
 
 p {
@@ -35,4 +36,5 @@ p {
     height: 20px;
     width: 120px;
     padding: 120px;
+    background-color: bisque;
 }
